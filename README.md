@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Haidar Akbar Hamman Setiawan</h1>
-<h3 align="center">A passionate Web Developer And App Developer from Indonesia</h3>
+<h3 align="center">I'm a Student From IDN BOARDING SCHOOL, And I'm a Expert Web Developer And App Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haidarakhs&label=Profile%20views&color=0e75b6&style=flat" alt="haidarakhs" /> </p>
 
